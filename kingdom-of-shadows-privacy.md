@@ -36,6 +36,8 @@ Diamond packs are bought through the store for your platform (Apple App Store, G
 ## 5. Rewarded ads (iOS and Android)
 
 On iOS and Android, the game offers an optional rewarded ad for a Second Chance. Ads are provided by a third-party ad service, which may collect information such as device and advertising identifiers under its own privacy policy. [OPEN: confirm the ad provider, its settings, and the exact data collected.] Rewarded ads are not shown in the Windows (Steam) version.
+[OPEN: ads shown to players under 13 or 16 are restricted in many regions. Confirm ad settings for younger players before release.]
+
 
 ## 6. Service providers
 
@@ -57,9 +59,8 @@ You can request deletion by emailing dxstudios0@gmail.com from your account emai
 
 Depending on where you live, you may have rights over your personal information. To use them, contact us at the email above. [OPEN: legal review for each region.]
 
-## 11. Children
-
-The game is not designed for children. [OPEN: confirm the age rating and policy for each store.]
+## 11. Age and Children
+The game's content is intended for players aged 7 and above. Guest play does not require an account. Accounts, purchases, and rewarded ads may have higher minimum ages set by your sign-in provider, your store, or local law. [OPEN: confirm the age rating on each store, whether the game is directed at children, and the rules for accounts, purchases, and ads for younger players. Legal review required.] If you are under the age of digital consent in your country, ask a parent or guardian before creating an account or buying anything.
 
 ## 12. Changes
 
